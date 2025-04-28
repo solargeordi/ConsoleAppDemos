@@ -100,6 +100,9 @@
                 case 7:
                     Console.WriteLine("Saturday");
                     break;
+                default:
+                    Console.WriteLine("Invalid day");
+                    break ;
 
 
             }
